@@ -28,12 +28,12 @@ CityReport is a mobile application developed to support SDG 11: Sustainable Citi
 
 4.0 Project Demonstrate
 
-Material Design UI using Jetpack Compose
-Multi-screen navigation using Navigation Compose
-Shared state management using ViewModel
-User registration and profile management
-Real-time data sharing between screens
-Expandable Action Buttons with animations
-SDG 11 awareness: Sustainable Cities & Communities
+Material Design UI using Jetpack Compose,
+Multi-screen navigation using Navigation Compose,
+Shared state management using ViewModel,
+User registration and profile management,
+Real-time data sharing between screens,
+Expandable Action Buttons with animations,
+SDG 11 awareness: Sustainable Cities & Communities.
 
 
